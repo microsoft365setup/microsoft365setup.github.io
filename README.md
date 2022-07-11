@@ -22,7 +22,8 @@ follow guidelines to create one:-
 8. Enter the password you want to set for your Microsoft account. 
 9. Follow instructions to finish the Microsoft 365 account setup.
 
-Can I redeem Microsoft product key of the retail card?
+# Can I redeem Microsoft product key of the retail card?
+
 You can purchase Microsoft 365 product key online or offline. The key is a 25-characters code 
 used to register or activate the Microsoft product through microsoft365.com/setup. You can 
 download all the Office apps, including Word, Excel and PowerPoint. You can buy the MS 
